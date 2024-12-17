@@ -1,4 +1,4 @@
-# Movie-Recommendation-System-with-TF-IDF-and-Cosine-Similarity
+
 # 🎬 Movie Recommendation System with Cosine Similarity
 
 This project is a **content-based movie recommendation system** implemented using **Python**. By calculating the **cosine similarity** of movie descriptions using the **TF-IDF Vectorization technique**, the system suggests movies similar to a given user-input movie.
