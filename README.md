@@ -18,7 +18,12 @@ The following Python libraries are used in this project:
 - **NumPy**  
 - **Pandas**  
 - **difflib**  
-- **Scikit-learn (TF-IDF and Cosine Similarity)**    
+- **Scikit-learn (TF-IDF and Cosine Similarity)**
+
+## 🎯 Project Highlights
+- Demonstrates the use of TF-IDF for text feature extraction.
+- Applies cosine similarity to measure text similarity effectively.
+- Shows interactive user input matching with slight tolerance using difflib.
 
 
 ## 🧪 Example Usage
