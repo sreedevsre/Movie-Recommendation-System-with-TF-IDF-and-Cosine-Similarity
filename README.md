@@ -24,9 +24,9 @@ The following Python libraries are used in this project:
 ## 🧪 Example Usage
  - Input: Thor: The Dark World
  - Output:
-1 - Thor: The Dark World
-2 - Thor
-3 - Avengers: Age of Ultron
-4 - The Avengers
-5 - X-Men
-6 - X-Men: Apocalypse
+1. Thor: The Dark World
+2. Thor
+3. Avengers: Age of Ultron
+4. The Avengers
+5.  X-Men
+6.  X-Men: Apocalypse
